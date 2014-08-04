@@ -1,6 +1,6 @@
 {
   "name": "hubot-backlog-stock",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Hubot script that stock the backlog wiki with your messages",
   "main": "index.js",
   "scripts": {
@@ -34,7 +34,7 @@
     "sinon": "^1.10.3"
   },
   "dependencies": {
-    "request": "^2.39.0",
-    "q": "^1.0.1"
+    "q": "^1.0.1",
+    "request": "^2.39.0"
   }
 }
